@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Live Code</string>
+    <string name="price_format">$ %d</string>
+    <string name="item_product_btn">Click me!</string>
 </resources>
